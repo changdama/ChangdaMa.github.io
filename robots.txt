@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://changda.github.io/sitemap.xml
+Sitemap: https://changdama.github.io/sitemap.xml
